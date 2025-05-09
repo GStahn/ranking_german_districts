@@ -7,7 +7,7 @@
 ## Author: Gerrit Stahn
 ##
 ## Date Created: 2024-10-06
-## Last Update: 2024-10-06
+## Last Update: 2025-05-09
 ##
 ## Copyright (c) Gerrit Stahn, 2024
 ## Email: gerrit.stahn@wiwi.uni-halle.de
@@ -33,10 +33,10 @@ library(tidyverse)
 rm(list = ls())
 
 ## set working directory and paths
-setwd("/Users/apxww/Library/Mobile Documents/com~apple~CloudDocs/GitHub/shiny_ranking_german_districts")      
-path_data <- "/Users/apxww/Library/Mobile Documents/com~apple~CloudDocs/GitHub/shiny_ranking_german_districts/Data/Data_2020orearlier"
-path_graphs <- "/Users/apxww/Library/Mobile Documents/com~apple~CloudDocs/GitHub/shiny_ranking_german_districts/Graphs/Data_2020orearlier"
-path_work <- "/Users/apxww/Library/Mobile Documents/com~apple~CloudDocs/GitHub/shiny_ranking_german_districts/Work/Data_2020orearlier"
+setwd("<AD WD>")      
+path_data <- "<Add path to Data folder>/Data_2020orearlier"
+path_graphs <- "<Add path to Graphs folder>/Data_2020orearlier"
+path_work <- "<Add path to Work folder>/Data_2020orearlier"
 
 ## -----------------------------------------------------------------------------
 ## Prep. data
