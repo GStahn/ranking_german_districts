@@ -1,0 +1,408 @@
+﻿Versiegelte Bodenfläche pro Einwohner (2018)
+
+lfd. Nr.
+;Gebietsschlüssel
+;Gebietsname
+;Wert m²/Ew
+
+1;07131;Ahrweiler;247 
+2;09771;Aichach-Friedberg;290 
+3;08425;Alb-Donau-Kreis;312 
+4;16077;Altenburger Land;299 
+5;07132;Altenkirchen (Westerwald);240 
+6;15081;Altmarkkreis Salzwedel;550 
+7;09171;Altötting;298 
+8;07331;Alzey-Worms;258 
+9;09361;Amberg;220 
+10;09371;Amberg-Sulzbach;326 
+11;03451;Ammerland;334 
+12;15082;Anhalt-Bitterfeld;436 
+13;09561;Ansbach;255 
+14;09571;Ansbach (Landkreis);370 
+15;09661;Aschaffenburg;184 
+16;09671;Aschaffenburg (Landkreis);232 
+17;09761;Augsburg;123 
+18;09772;Augsburg (Landkreis);263 
+19;03452;Aurich;289 
+20;07332;Bad Dürkheim;237 
+21;09672;Bad Kissingen;319 
+22;07133;Bad Kreuznach;237 
+23;09173;Bad Tölz-Wolfratshausen;209 
+24;08211;Baden-Baden;158 
+25;09461;Bamberg;178 
+26;09471;Bamberg (Landkreis);280 
+27;12060;Barnim;321 
+28;14625;Bautzen;350 
+29;09462;Bayreuth;162 
+30;09472;Bayreuth (Landkreis);279 
+31;09172;Berchtesgadener Land;192 
+32;06431;Bergstraße;203 
+33;11000;Berlin;80 
+34;07231;Bernkastel-Wittlich;308 
+35;08426;Biberach;319 
+36;05711;Bielefeld;163 
+37;07134;Birkenfeld;283 
+38;05911;Bochum;127 
+39;08435;Bodenseekreis;204 
+40;05314;Bonn;105 
+41;05554;Borken;280 
+42;05512;Bottrop;178 
+43;12051;Brandenburg an der Havel;305 
+44;03101;Braunschweig;176 
+45;08315;Breisgau-Hochschwarzwald;209 
+46;04011;Bremen;164 
+47;04012;Bremerhaven;202 
+48;15084;Burgenlandkreis;335 
+49;08115;Böblingen;167 
+50;15083;Börde;438 
+51;08235;Calw;201 
+52;03351;Celle;304 
+53;09372;Cham;360 
+54;14511;Chemnitz;160 
+55;03453;Cloppenburg;365 
+56;09463;Coburg;201 
+57;09473;Coburg (Landkreis);311 
+58;07135;Cochem-Zell;338 
+59;05558;Coesfeld;278 
+60;12052;Cottbus;230 
+61;03352;Cuxhaven;321 
+62;09174;Dachau;208 
+63;12061;Dahme-Spreewald;438 
+64;06411;Darmstadt;139 
+65;06432;Darmstadt-Dieburg;193 
+66;09271;Deggendorf;322 
+67;03401;Delmenhorst;189 
+68;15001;Dessau-Roßlau;274 
+69;03251;Diepholz;340 
+70;09773;Dillingen a.d.Donau;359 
+71;09279;Dingolfing-Landau;402 
+72;01051;Dithmarschen;373 
+73;09779;Donau-Ries;390 
+74;07333;Donnersbergkreis;278 
+75;05913;Dortmund;136 
+76;14612;Dresden;134 
+77;05112;Duisburg;145 
+78;05358;Düren;230 
+79;05111;Düsseldorf;112 
+80;09175;Ebersberg;205 
+81;16061;Eichsfeld;340 
+82;09176;Eichstätt;340 
+83;07232;Eifelkreis Bitburg-Prüm;391 
+84;12062;Elbe-Elster;556 
+85;03402;Emden;321 
+86;08316;Emmendingen;193 
+87;03454;Emsland;430 
+88;05954;Ennepe-Ruhr-Kreis;160 
+89;08236;Enzkreis;201 
+90;09177;Erding;307 
+91;16051;Erfurt;181 
+92;09562;Erlangen;152 
+93;09572;Erlangen-Höchstadt;231 
+94;14521;Erzgebirgskreis;230 
+95;05113;Essen;111 
+96;08116;Esslingen;156 
+97;05366;Euskirchen;253 
+98;01001;Flensburg;154 
+99;09474;Forchheim;238 
+100;07311;Frankenthal (Pfalz);181 
+101;12053;Frankfurt (Oder);229 
+102;06412;Frankfurt am Main;111 
+103;08311;Freiburg im Breisgau;96 
+104;09178;Freising;249 
+105;08237;Freudenstadt;235 
+106;09272;Freyung-Grafenau;302 
+107;03455;Friesland;330 
+108;06631;Fulda;263 
+109;09179;Fürstenfeldbruck;168 
+110;09563;Fürth;136 
+111;09573;Fürth (Landkreis);194 
+112;09180;Garmisch-Partenkirchen;209 
+113;05513;Gelsenkirchen;137 
+114;16052;Gera;184 
+115;07334;Germersheim;289 
+116;06531;Gießen;214 
+117;03151;Gifhorn;307 
+118;03153;Goslar;262 
+119;16067;Gotha;292 
+120;03456;Grafschaft Bentheim;371 
+121;16076;Greiz;314 
+122;06433;Groß-Gerau;206 
+123;08117;Göppingen;186 
+124;14626;Görlitz;308 
+125;03159;Göttingen;227 
+126;09774;Günzburg;334 
+127;05754;Gütersloh;255 
+128;05914;Hagen;151 
+129;15002;Halle (Saale);146 
+130;02000;Hamburg;114 
+131;03252;Hameln-Pyrmont;265 
+132;05915;Hamm;211 
+133;03353;Harburg;247 
+134;15085;Harz;333 
+135;12063;Havelland;325 
+136;09674;Haßberge;340 
+137;03358;Heidekreis;374 
+138;08221;Heidelberg;108 
+139;08135;Heidenheim;251 
+140;08121;Heilbronn;160 
+141;08125;Heilbronn (Landkreis);231 
+142;05370;Heinsberg;243 
+143;03154;Helmstedt;296 
+144;05758;Herford;248 
+145;05916;Herne;129 
+146;06632;Hersfeld-Rotenburg;309 
+147;01053;Herzogtum Lauenburg;237 
+148;16069;Hildburghausen;345 
+149;03254;Hildesheim;255 
+150;05958;Hochsauerlandkreis;279 
+151;06434;Hochtaunuskreis;144 
+152;09464;Hof;233 
+153;09475;Hof (Landkreis);345 
+154;08126;Hohenlohekreis;283 
+155;03255;Holzminden;305 
+156;05762;Höxter;307 
+157;16070;Ilm-Kreis;286 
+158;09161;Ingolstadt;206 
+159;16053;Jena;118 
+160;15086;Jerichower Land;469 
+161;07312;Kaiserslautern;212 
+162;07335;Kaiserslautern (Landkreis);342 
+163;08212;Karlsruhe;134 
+164;08215;Karlsruhe (Landkreis);222 
+165;06611;Kassel;147 
+166;06633;Kassel (Landkreis);271 
+167;09762;Kaufbeuren;172 
+168;09273;Kelheim;353 
+169;09763;Kempten (Allgäu);143 
+170;01002;Kiel;128 
+171;09675;Kitzingen;357 
+172;05154;Kleve;284 
+173;07111;Koblenz;179 
+174;08335;Konstanz;196 
+175;05114;Krefeld;157 
+176;09476;Kronach;311 
+177;09477;Kulmbach;300 
+178;07336;Kusel;261 
+179;16065;Kyffhäuserkreis;400 
+180;05315;Köln;114 
+181;06532;Lahn-Dill-Kreis;243 
+182;07313;Landau in der Pfalz;201 
+183;09181;Landsberg am Lech;288 
+184;09261;Landshut;151 
+185;09274;Landshut (Landkreis);343 
+186;03457;Leer;309 
+187;14713;Leipzig;136 
+188;14729;Leipzig (Landkreis);328 
+189;05316;Leverkusen;139 
+190;09478;Lichtenfels;329 
+191;06533;Limburg-Weilburg;250 
+192;09776;Lindau (Bodensee);182 
+193;05766;Lippe;233 
+194;08118;Ludwigsburg;160 
+195;07314;Ludwigshafen am Rhein;174 
+196;13076;Ludwigslust-Parchim;432 
+197;08336;Lörrach;192 
+198;01003;Lübeck;181 
+199;03354;Lüchow-Dannenberg;399 
+200;03355;Lüneburg;249 
+201;15003;Magdeburg;188 
+202;06435;Main-Kinzig-Kreis;204 
+203;09677;Main-Spessart;298 
+204;08128;Main-Tauber-Kreis;309 
+205;06436;Main-Taunus-Kreis;141 
+206;07315;Mainz;115 
+207;07339;Mainz-Bingen;213 
+208;08222;Mannheim;168 
+209;15087;Mansfeld-Südharz;389 
+210;06534;Marburg-Biedenkopf;219 
+211;07137;Mayen-Koblenz;283 
+212;13071;Mecklenburgische Seenplatte;371 
+213;14627;Meißen;338 
+214;09764;Memmingen;210 
+215;10042;Merzig-Wadern;278 
+216;05158;Mettmann;156 
+217;09182;Miesbach;222 
+218;09676;Miltenberg;247 
+219;05770;Minden-Lübbecke;280 
+220;14522;Mittelsachsen;286 
+221;12064;Märkisch-Oderland;358 
+222;05962;Märkischer Kreis;203 
+223;05116;Mönchengladbach;157 
+224;09183;Mühldorf a.Inn;317 
+225;05117;Mülheim an der Ruhr;143 
+226;09162;München;82 
+227;09184;München (Landkreis);188 
+228;05515;Münster;148 
+229;08225;Neckar-Odenwald-Kreis;278 
+230;09775;Neu-Ulm;245 
+231;09185;Neuburg-Schrobenhausen;350 
+232;09373;Neumarkt i.d.OPf.;367 
+233;01004;Neumünster;222 
+234;10043;Neunkirchen;213 
+235;09575;Neustadt a.d.Aisch-Bad Windsheim;361 
+236;09374;Neustadt a.d.Waldnaab;379 
+237;07316;Neustadt an der Weinstraße;196 
+238;07138;Neuwied;235 
+239;03256;Nienburg (Weser);373 
+240;01054;Nordfriesland;331 
+241;16062;Nordhausen;344 
+242;14730;Nordsachsen;405 
+243;13074;Nordwestmecklenburg;349 
+244;03155;Northeim;304 
+245;09564;Nürnberg;129 
+246;09574;Nürnberger Land;226 
+247;09780;Oberallgäu;221 
+248;05374;Oberbergischer Kreis;216 
+249;05119;Oberhausen;140 
+250;12065;Oberhavel;279 
+251;12066;Oberspreewald-Lausitz;489 
+252;06437;Odenwaldkreis;203 
+253;12067;Oder-Spree;403 
+254;06438;Offenbach;159 
+255;06413;Offenbach am Main;97 
+256;03458;Oldenburg;314 
+257;03403;Oldenburg (Oldb);170 
+258;05966;Olpe;284 
+259;08317;Ortenaukreis;237 
+260;03404;Osnabrück;186 
+261;03459;Osnabrück (Landkreis);307 
+262;08136;Ostalbkreis;244 
+263;09777;Ostallgäu;299 
+264;03356;Osterholz;225 
+265;01055;Ostholstein;305 
+266;12068;Ostprignitz-Ruppin;446 
+267;05774;Paderborn;241 
+268;09262;Passau;198 
+269;09275;Passau (Landkreis);311 
+270;03157;Peine;280 
+271;09186;Pfaffenhofen a.d.Ilm;334 
+272;08231;Pforzheim;120 
+273;01056;Pinneberg;196 
+274;07317;Pirmasens;210 
+275;01057;Plön;258 
+276;12054;Potsdam;128 
+277;12069;Potsdam-Mittelmark;376 
+278;12070;Prignitz;506 
+279;08216;Rastatt;223 
+280;08436;Ravensburg;230 
+281;05562;Recklinghausen;182 
+282;09276;Regen;284 
+283;09362;Regensburg;180 
+284;09375;Regensburg (Landkreis);294 
+285;03241;Region Hannover;190 
+286;10041;Regionalverband Saarbrücken;185 
+287;08119;Rems-Murr-Kreis;162 
+288;05120;Remscheid;143 
+289;01058;Rendsburg-Eckernförde;294 
+290;08415;Reutlingen;201 
+291;05362;Rhein-Erft-Kreis;191 
+292;07140;Rhein-Hunsrück-Kreis;317 
+293;05162;Rhein-Kreis Neuss;188 
+294;07141;Rhein-Lahn-Kreis;239 
+295;08226;Rhein-Neckar-Kreis;189 
+296;07338;Rhein-Pfalz-Kreis;231 
+297;05382;Rhein-Sieg-Kreis;175 
+298;06439;Rheingau-Taunus-Kreis;178 
+299;05378;Rheinisch-Bergischer Kreis;158 
+300;09673;Rhön-Grabfeld;365 
+301;09163;Rosenheim;137 
+302;09187;Rosenheim (Landkreis);240 
+303;13003;Rostock;170 
+304;13072;Rostock (Landkreis);373 
+305;03357;Rotenburg (Wümme);325 
+306;09576;Roth;326 
+307;09277;Rottal-Inn;349 
+308;08325;Rottweil;267 
+309;16074;Saale-Holzland-Kreis;327 
+310;16075;Saale-Orla-Kreis;361 
+311;15088;Saalekreis;427 
+312;16073;Saalfeld-Rudolstadt;267 
+313;10044;Saarlouis;263 
+314;10045;Saarpfalz-Kreis;260 
+315;03102;Salzgitter;254 
+316;15089;Salzlandkreis;380 
+317;03257;Schaumburg;291 
+318;01059;Schleswig-Flensburg;313 
+319;16066;Schmalkalden-Meiningen;303 
+320;09565;Schwabach;182 
+321;06634;Schwalm-Eder-Kreis;315 
+322;09376;Schwandorf;362 
+323;08326;Schwarzwald-Baar-Kreis;223 
+324;09662;Schweinfurt;199 
+325;09678;Schweinfurt (Landkreis);295 
+326;13004;Schwerin;179 
+327;08127;Schwäbisch Hall;289 
+328;01060;Segeberg;244 
+329;05970;Siegen-Wittgenstein;220 
+330;08437;Sigmaringen;348 
+331;05974;Soest;272 
+332;05122;Solingen;127 
+333;16072;Sonneberg;253 
+334;07318;Speyer;221 
+335;12071;Spree-Neiße;511 
+336;10046;St. Wendel;266 
+337;03359;Stade;266 
+338;09188;Starnberg;187 
+339;01061;Steinburg;312 
+340;05566;Steinfurt;284 
+341;15090;Stendal;485 
+342;01062;Stormarn;219 
+343;09263;Straubing;241 
+344;09278;Straubing-Bogen;387 
+345;08111;Stuttgart;93 
+346;05334;Städteregion Aachen;146 
+347;16054;Suhl;194 
+348;14628;Sächsische Schweiz-Osterzgebirge;271 
+349;16068;Sömmerda;389 
+350;07337;Südliche Weinstraße;259 
+351;07340;Südwestpfalz;276 
+352;12072;Teltow-Fläming;405 
+353;09377;Tirschenreuth;330 
+354;09189;Traunstein;268 
+355;07211;Trier;165 
+356;07235;Trier-Saarburg;262 
+357;08327;Tuttlingen;266 
+358;08416;Tübingen;171 
+359;12073;Uckermark;484 
+360;03360;Uelzen;352 
+361;08421;Ulm;166 
+362;05978;Unna;205 
+363;16064;Unstrut-Hainich-Kreis;336 
+364;09778;Unterallgäu;352 
+365;03460;Vechta;374 
+366;03361;Verden;290 
+367;05166;Viersen;216 
+368;06535;Vogelsbergkreis;335 
+369;14523;Vogtlandkreis;258 
+370;13075;Vorpommern-Greifswald;376 
+371;13073;Vorpommern-Rügen;311 
+372;07233;Vulkaneifel;356 
+373;06635;Waldeck-Frankenberg;327 
+374;08337;Waldshut;244 
+375;05570;Warendorf;289 
+376;16063;Wartburgkreis;285 
+377;09363;Weiden i.d.OPf.;241 
+378;09190;Weilheim-Schongau;250 
+379;16055;Weimar;146 
+380;16071;Weimarer Land;333 
+381;09577;Weißenburg-Gunzenhausen;357 
+382;06636;Werra-Meißner-Kreis;311 
+383;05170;Wesel;202 
+384;03461;Wesermarsch;341 
+385;07143;Westerwaldkreis;283 
+386;06440;Wetteraukreis;215 
+387;06414;Wiesbaden;119 
+388;03405;Wilhelmshaven;269 
+389;15091;Wittenberg;468 
+390;03462;Wittmund;371 
+391;03158;Wolfenbüttel;246 
+392;03103;Wolfsburg;251 
+393;07319;Worms;207 
+394;09479;Wunsiedel i.Fichtelgebirge;281 
+395;05124;Wuppertal;112 
+396;09663;Würzburg;161 
+397;09679;Würzburg (Landkreis);257 
+398;08417;Zollernalbkreis;267 
+399;07320;Zweibrücken;246 
+400;14524;Zwickau;246 
+;;Deutschland;223 
