@@ -40,6 +40,10 @@ Each variable can be positively or negatively weighted to reflect user preferenc
     - Save results to `.rds` and `.txt` files.
     - Generate bar plots of the top 20 districts by index score.
 
+## Roadmap
+1. Create an R-Shiny app, which let's useres set their preferences easily without changing and executing R code.
+2. Update data. 
+
 ## Dependencies
 
 - R (≥ 4.0.0)
