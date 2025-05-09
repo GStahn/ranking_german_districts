@@ -45,8 +45,8 @@ library(readxl)
 rm(list = ls())
 
 ### set working directory and paths ###
-setwd("/Users/apxww/Library/Mobile Documents/com~apple~CloudDocs/GitHub/shiny_ranking_german_districts")      
-path_data <- "/Users/apxww/Library/Mobile Documents/com~apple~CloudDocs/GitHub/shiny_ranking_german_districts/Data/Data_2020orearlier"
+setwd(<set your wd>)      
+path_data <- "<Add path to your Data folder>/Data_2020orearlier"
 
 ## -----------------------------------------------------------------------------
 ## Data Air Quality
