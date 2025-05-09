@@ -26,6 +26,7 @@ Each variable can be positively or negatively weighted to reflect user preferenc
 ## File Structure
 
 - `WO_Index_V[number]_git.R`: Main script for data processing, index computation, and visualization.
+- `Data_prep_git.R`: Script for manipulating the raw data. 
 - `Data/`: Folder containing cleaned and normalized `.rds` data inputs.
 - `Graphs/`: Output directory for the top-20 district visualizations.
 - `Work/`: Folder for index outputs as `.txt` files.
